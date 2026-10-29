@@ -1,1 +1,1 @@
-# git-lab-demo
+# Git Lab Demo Project
